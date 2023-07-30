@@ -1,17 +1,6 @@
-# Textbase
+# Fortis
 
-✨ Textbase is a framework for building chatbots using NLP and ML. ✨
-
-Just implement the `on_message` function in `main.py` and Textbase will take care of the rest :)
-
-Since it is just Python you can use whatever models, libraries, vector databases and APIs you want.
-
-_Coming soon:_
-
-- [ ] PyPI package
-- [ ] SMS integration
-- [ ] Easy web deployment via `textbase deploy`
-- [ ] Native integration of other models (Claude, Llama, ...)
+Fortis is a virtual fitness trainer that will create personalized workout and diet plans, catering to your every need, condition and restrictions.
 
 ## Installation
 
